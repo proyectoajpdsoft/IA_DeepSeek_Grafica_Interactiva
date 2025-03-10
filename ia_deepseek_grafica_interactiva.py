@@ -10,7 +10,7 @@ warnings.filterwarnings("ignore", message="Unverified HTTPS request")
 
 # Configuración de la API de DeepSeek
 API_URL = "https://api.deepseek.com/v1/chat/completions"
-API_KEY = "sk-e........746...............ddd"  # Reemplaza con tu API key de DeepSeek
+API_KEY = "sk-e......746............ddd"  # Reemplaza con tu API key de DeepSeek
 
 # Mostrar la ventana y sus componentes
 class ChatApp:
